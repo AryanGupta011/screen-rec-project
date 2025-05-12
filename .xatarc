@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Aryan-Gupta-s-workspace-nnskfs.eu-central-1.xata.sh/db/jsm_screensnap",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
